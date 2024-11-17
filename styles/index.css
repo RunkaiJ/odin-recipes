@@ -1,0 +1,30 @@
+* {
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    background-color: #E2F9FD;
+}
+
+h1,
+ul {
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightblue;
+}
